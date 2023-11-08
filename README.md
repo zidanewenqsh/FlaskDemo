@@ -1,6 +1,6 @@
 # FlaskDemo
 My flask demo project
-```markdown
+
 # My Flask App
 
 这是一个使用 Flask 框架构建的 Web 应用示例项目。
@@ -98,4 +98,3 @@ pytest
 ## 许可证
 
 此项目使用 MIT 许可证 - 详见 [LICENSE.md](LICENSE) 文件了解详情。
-```
